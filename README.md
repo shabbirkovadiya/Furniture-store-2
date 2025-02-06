@@ -2,7 +2,7 @@
 
 Furniture Store Website For Practicing HTML and CSS.
 
-(Ignore This) And See Old One : 
+(Ignore This) And See Old One : https://github.com/shabbirkovadiya/Furniture-Store.git
 
 📌 Live Demo
 

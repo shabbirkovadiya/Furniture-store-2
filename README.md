@@ -1,11 +1,14 @@
 🚀 Furniture Store Website V2 (Same as Before But Only Heading Changed So Ignore)
+
 Furniture Store Website For Practicing HTML and CSS.
+
 (Ignore This) And See Old One : 
 
 📌 Live Demo
 
 🔗 V1 : https://furniture-store-brown-five.vercel.app/ (original version)
-🔗 V2 : https://furniture-store-brown-five.vercel.app/ (This)
+
+🔗 V2 : https://furniture-store-v2-sk.netlify.app/ (This)
 
 
 🛠️ Built With
